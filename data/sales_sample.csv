@@ -1,0 +1,11 @@
+order_id,city,category,units,unit_price,discount_pct
+1001,Nagpur,Stationery,12,25,0
+1002,Pune,Electronics,2,850,5
+1003,Nagpur,Home,3,420,10
+1004,Mumbai,Stationery,20,18,0
+1005,Pune,Home,1,1250,8
+1006,Mumbai,Electronics,1,1200,5
+1007,Nagpur,Electronics,3,700,5
+1008,Pune,Stationery,15,22,0
+1009,Mumbai,Home,2,560,10
+1010,Nagpur,Stationery,8,25,0
